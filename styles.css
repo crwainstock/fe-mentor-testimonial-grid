@@ -25,7 +25,7 @@ body {
 }
 .testimonial-person {
   display: grid;
-  grid-template-columns: 1fr 4fr;
+  grid-template-columns: 1fr 5fr;
 }
 .testimonial-person img {
   border-radius: 50%;
@@ -37,6 +37,15 @@ body {
 .person-details h3 {
   margin-top: 0rem;
   margin-bottom: 0rem;
+}
+.person-details h2 {
+  font-size: 1em;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
+.person-details h3 {
+  font-size: 1em;
+  margin-left: 0.5rem;
 }
 #daniel {
   background-color: hsl(263, 55%, 52%);
