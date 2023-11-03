@@ -25,13 +25,13 @@ body {
 }
 .testimonial-person {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 4fr;
 }
 .testimonial-person img {
-  border-radius: 100px;
-  max-width: 30%;
-  padding-top: 0.5rem;
-  padding-left: 0.6rem;
+  border-radius: 50%;
+  max-width: 2.4em;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
 }
 .person-details h2,
 .person-details h3 {
