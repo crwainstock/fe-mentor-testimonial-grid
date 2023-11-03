@@ -19,6 +19,7 @@ body {
   padding-top: 1.5rem;
   padding-left: 2rem;
   padding-right: 2rem;
+  margin-top: 1rem;
   margin-left: 3rem;
   margin-right: 3rem;
   margin-bottom: 1rem;
@@ -44,7 +45,7 @@ body {
   margin-left: 0.5rem;
 }
 .person-details h3 {
-  font-size: 1em;
+  font-size: 0.85em;
   margin-left: 0.5rem;
 }
 .testimonial-text-container h3 {
@@ -52,6 +53,12 @@ body {
   margin-left: 0.6rem;
   margin-top: 1.25rem;
   margin-right: 1.3rem;
+}
+.testimonial-text-container p {
+  margin-left: 0.6rem;
+  margin-right: 1rem;
+  line-height: 1.4em;
+  padding-bottom: 1.2rem;
 }
 #daniel {
   background-color: hsl(263, 55%, 52%);
@@ -62,17 +69,26 @@ body {
   background-color: hsl(217, 19%, 35%);
   color: hsl(0, 0%, 100%);
 }
+/* #jonathan p {
+  margin-right: 0.8rem;
+} */
 #jeanette {
   background-color: hsl(0, 0%, 100%);
   color: hsl(217, 19%, 35%);
+  padding-top: 1.2rem;
 }
 #patrick {
   background-color: hsl(219, 29%, 14%);
   color: hsl(0, 0%, 100%);
+  padding-top: 1.2rem;
 }
+/* #patrick p {
+  margin-right: 0.8rem;
+} */
 #kira {
   background-color: hsl(0, 0%, 100%);
   color: hsl(217, 19%, 35%);
+  padding-top: 1.3rem;
 }
 footer {
   margin-top: 3rem;
