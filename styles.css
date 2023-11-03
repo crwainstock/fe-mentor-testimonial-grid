@@ -7,7 +7,9 @@ body {
   font-weight: 500;
   background-color: #ecf2f9;
 }
-
+.light-text {
+  opacity: 50%;
+}
 .component-container {
   display: grid;
   grid-template-columns: 1fr;
