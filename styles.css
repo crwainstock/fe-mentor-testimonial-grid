@@ -16,7 +16,9 @@ body {
 }
 .testimonial-container {
   border-radius: 10px;
-  padding: 1rem;
+  padding-top: 1.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
   margin-left: 3rem;
   margin-right: 3rem;
   margin-bottom: 1rem;
@@ -24,7 +26,12 @@ body {
 .testimonial-person {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  place-items: center;
+}
+.testimonial-person img {
+  border-radius: 100px;
+  max-width: 30%;
+  padding-top: 0.5rem;
+  padding-left: 0.6rem;
 }
 .person-details h2,
 .person-details h3 {
