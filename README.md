@@ -14,10 +14,10 @@ You can see a couple of other little, cutie builds [here](https://github.com/crw
 
 This component was built with HTML and vanilla CSS. No dependencies! 🥳 I also used [PerfectPixel](https://www.welldonecode.com/perfectpixel/) and the [Eye Dropper/Color Picker](https://eyedropper.org/) browser extensions to help with the build.
 
-I deployed the component with Netlify, though, so check that out [here]().
+I deployed the component with Netlify, though, so check that out [here](https://helpful-alpaca-c9c4a9.netlify.app/).
 
 ## 🤔 Reflection
 
 ## 👀 Demo & Live Version
 
-Check out the live version of this component [here]().
+Check out the live version of this component [here](https://helpful-alpaca-c9c4a9.netlify.app/).
