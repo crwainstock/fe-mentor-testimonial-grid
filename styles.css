@@ -100,7 +100,7 @@ footer {
 
 /* Larger Screens */
 
-@media only screen and (min-width: 660px) {
+@media only screen and (min-width: 900px) {
   .component-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -137,5 +137,17 @@ footer {
     margin-right: 0rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
+  }
+  .testimonial-person {
+    grid-template-columns: 1fr 10fr;
+  }
+  #jeanette .person-details {
+    margin-left: 0.7rem;
+  }
+  #jonathan .person-details {
+    margin-left: 0.7rem;
+  }
+  .person-details h2 {
+    margin-top: 0rem;
   }
 }
